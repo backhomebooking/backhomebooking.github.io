@@ -1,2 +1,2 @@
 # backhomebooking.github.io
-Web page for BHB.
+Web page for Back Home Booking.
